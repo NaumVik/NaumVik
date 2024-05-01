@@ -4,7 +4,7 @@ CV: [CV_VNaumenka.pdf](https://github.com/NaumVik/NaumVik/blob/64df115c13ba6ed1b
 ## Facts about me: 💞️
 - Performance QA engineer
 - use Java, but don't forget about Python
-- great self-learner and not going to stop in it
+- great self-learner and not going to stop
 
 ## How to reach me: 📫
 - linkedIn - https://www.linkedin.com/in/naumenkaviktoryia/ 

@@ -1,10 +1,10 @@
 # Hi, I’m Viktoryia Naumenka // @NaumVik 👋
-CV: https://github.com/NaumVik/NaumVik/blob/main/CV_Viktoria_Naumenka.pdf
+CV: CV_VNaumenka.pdf
 
 ## Facts about me: 💞️
 - Performance QA engineer
 - use Java, but don't forget about Python
-- great self-learner and not gonna stop in it
+- great self-learner and not going to stop in it
 
 ## How to reach me: 📫
 - linkedIn - https://www.linkedin.com/in/naumenkaviktoryia/ 

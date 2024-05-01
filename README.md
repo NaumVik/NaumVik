@@ -1,5 +1,5 @@
 # Hi, I’m Viktoryia Naumenka // @NaumVik 👋
-CV: CV_VNaumenka.pdf
+CV: [CV_VNaumenka.pdf](https://github.com/NaumVik/NaumVik/blob/64df115c13ba6ed1b28847621da411f5dea50bd6/CV_VNaumenka.pdf)
 
 ## Facts about me: 💞️
 - Performance QA engineer
